@@ -1,4 +1,15 @@
 
+function calculadoraSuma(op1, op2){
+    
+    return(op1 + op2);
+
+}
+
+let resultadosuma=calculadoraSuma(6,3);
+console.log(resultadosuma);
+
+  
+  
   
   function calculadoraResta(op1, op2){
     

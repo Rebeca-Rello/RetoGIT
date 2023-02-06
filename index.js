@@ -4,8 +4,12 @@ function calculadoraSuma(op1, op2,op3){
       
     }
 
-  let resultadosuma=calculadoraSuma(6,3);
-  console.log(resultadosuma);
+
+
+let resultadosuma=calculadoraSuma(6,3);
+console.log(resultadosuma);
+
+  
   
   
   function calculadoraResta(op1, op2){

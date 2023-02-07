@@ -18,6 +18,8 @@ console.log(resultadosuma);
 
 }
 
+////Haciendo pruebas
+
 
 
 let resultadoresta=calculadoraResta(6,3);
